@@ -232,3 +232,25 @@ footer{
     font-size: 105%;
  }
   
+ .template-footer {
+    margin-top: 20px;
+    padding: 2.5rem 0;
+    color: #FFF;
+    text-align: center;
+    background-color: #000000;
+    border-top: .05rem solid #e5e5e5;
+  }
+  .template-footer p:last-child {
+    margin-bottom: 0;
+      
+  }
+            
+  footer a {
+    color: #fff;
+    font-size: 14px;
+    transition-duration: 0.2s;
+  }
+            
+  .social {
+  margin-bottom:20px;
+  }
